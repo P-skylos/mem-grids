@@ -4,7 +4,7 @@ This is a small script meant to generate letter grids to help memorize passages 
 
 # usage
 
-provide raw text, or an in put path with the `-f` flag to be turned into letters. you can specify an output file with `-o`, toggle punctuation with `-p` and whitespace with `-s`.
+provide raw text, or an input path with the `-f` flag to be turned into letters. you can specify an output file with `-o`, toggle punctuation with `-p` and whitespace with `-s`.
 
 # reflection
 
