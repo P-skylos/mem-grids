@@ -11,5 +11,7 @@ provide raw text, or an input path with the `-f` flag to be turned into letters.
 Well, I'm glad I go around to making this since I've some songs I've been meaning to memorize. But in using it I've found some things I hadn't considered when I set out to make a quick script one afternoon.
 - apostrophe's can occur inside words which can cause odd behavior.
 - to tell when an apostrophe is an apostrophe and not a single quote would need a lexer like approach rather than my quick n dirty find and replacing.
+- it might be worth having a number preserving flag
+- it might be worth having a capitilization normaliztion flag
 
 I also got the chance to learn about the argparse module so that's exciting. If I return to this project it'll probably be a javascript lexer to put on my website.
